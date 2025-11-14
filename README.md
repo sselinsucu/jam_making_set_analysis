@@ -1,7 +1,7 @@
 # jam_making_set_analysis
 
 🇹🇷 For Turkish version, please scroll down. The original Excel file exceeds GitHub's size limit, so only the CSV version has been uploaded.  
-You can download the full Excel file from (https://drive.google.com/drive/u/5/folders/1aX_jLLMidzHJV81ff4_dWo5GGeYXS-bA?q=sharedwith:public%20parent:1aX_jLLMidzHJV81ff4_dWo5GGeYXS-bA).
+You can download the full Excel file from (https://drive.google.com/drive/folders/1aX_jLLMidzHJV81ff4_dWo5GGeYXS-bA?usp=drive_link).
 
 
 🍯 Jam Making Set Basket & Customer Analysis Project
