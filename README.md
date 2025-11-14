@@ -1,5 +1,7 @@
 # jam_making_set_analysis
 
+🇹🇷 For Turkish version, please scroll down.
+
 🍯 Jam Making Set Basket & Customer Analysis Project
 This project focuses on customer and product-based data analysis using an Excel-based approach centered around the Jam Making Set product line. The project involves conducting basket analysis, pricing strategy, and RFM-based customer segmentation utilizing product sales data.
 
@@ -21,6 +23,8 @@ The RFM_Analysis.xlsx file was used to calculate the customers' Recency, Frequen
 Basket_Analysis :   Basket analysis, pivot tables, product narrative (storytelling), and pricing tables.
 RFM_Analysis :	RFM score calculations, Customer segmentation summary, and segment-based campaign recommendations.
 data/MarketDataset_2010_2011_.csv: The raw dataset used for analysis.
+
+
 🎯 Project Objectives
 Through this project, we have:
 
