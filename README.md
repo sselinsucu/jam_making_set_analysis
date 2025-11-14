@@ -74,3 +74,6 @@ Segment bazlı müşteri değerleri ve riskli segmentler belirlendi.
 
 Analiz sonuçları ileride ürün planlama, kampanya tasarımı ve satış stratejilerine temel oluşturabilir.
 
+
+Büyük Excel dosyası GitHub limitini aştığı için CSV versiyonu yüklenmiştir.  
+Orijinal Excel dosyalara bu linkten ulaşabilirsiniz:https://drive.google.com/drive/u/5/folders/1aX_jLLMidzHJV81ff4_dWo5GGeYXS-bA?q=sharedwith:public%20parent:1aX_jLLMidzHJV81ff4_dWo5GGeYXS-bA
