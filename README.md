@@ -1,6 +1,8 @@
 # jam_making_set_analysis
 
-🇹🇷 For Turkish version, please scroll down.
+🇹🇷 For Turkish version, please scroll down. The original Excel file exceeds GitHub's size limit, so only the CSV version has been uploaded.  
+You can download the full Excel file from (https://drive.google.com/drive/u/5/folders/1aX_jLLMidzHJV81ff4_dWo5GGeYXS-bA?q=sharedwith:public%20parent:1aX_jLLMidzHJV81ff4_dWo5GGeYXS-bA).
+
 
 🍯 Jam Making Set Basket & Customer Analysis Project
 This project focuses on customer and product-based data analysis using an Excel-based approach centered around the Jam Making Set product line. The project involves conducting basket analysis, pricing strategy, and RFM-based customer segmentation utilizing product sales data.
